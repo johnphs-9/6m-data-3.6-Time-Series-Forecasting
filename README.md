@@ -49,7 +49,7 @@
 
 ## Your learning path
 
-### Phase 1 — Before class: self-study (~25 min)
+### Phase 1 — Before class: self-study (~30 min)
 
 **Start here →** [**pre-class.md**](./pre-class.md)
 
@@ -106,7 +106,7 @@ Optional material lives in [`notebooks/optional_extensions.ipynb`](./notebooks/o
 ```
 README.md                              ← You are here
 setup.md                               ← One-time environment setup
-pre-class.md                           ← Phase 1: 75-min self-study guide
+pre-class.md                           ← Phase 1: 30-min self-study guide
 lesson.md                              ← Short reference & review (overview · takeaways · checklist · Q&A · course map)
 reference.md                           ← Phase 3: Further reading + glossary
 environment.yml                        ← Conda environment spec
